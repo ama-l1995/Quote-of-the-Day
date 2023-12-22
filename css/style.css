@@ -1,20 +1,26 @@
-/* ----------------------------------------------------- Task 8 ----------------------------------------------------- */
-
+body{
+    background-image: url(../red-light-round-podium-black-background-mock-up.jpg);
+    height: 100vh;
+    background-size: 100%;
+    background-position: center;
+}
 div {
     padding: 50px 0;
     text-align: center;
     margin-top: 5%;
     margin-bottom: 5%;
-    background-color: rgba(0, 255, 255, 0.214);
     
 }
 h1{
-    color: blue;
+    color: rgb(236, 236, 245);
 }
+h5{
+    color: #FD0F4D;
 
+}
 button {
     background-color: rgba(105, 105, 105, 0.382);
-    color: rgb(221, 6, 6);
+    color: #FD0F4D;
     font-weight: 600;
     border: none;
     cursor: pointer;
@@ -25,12 +31,12 @@ button {
     margin: auto;
 }
 #qoute h6{
-    color: rgba(4, 14, 83, 0.765);
+    color: rgba(229, 230, 237, 0.765);
     font-weight: 800;
     font-size: 30px;
 }
 #qoute p{
-    color: rgba(4, 14, 83, 0.765);
+    color: rgba(229, 230, 237, 0.765);
     font-weight: 500;
     font-size: 26px;
 }
